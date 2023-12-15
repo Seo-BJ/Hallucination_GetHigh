@@ -68,8 +68,8 @@ Dynamic Gravity와 3D Nav Mesh를 통해 평면에서만 진행되는 게임에�
 # Download
 Hallucination은 Windows 환경만을 지원합니다.
 
-## [Windows](https://github.com/Seo-BJ/Hallucination/releases/latest)   
-[다운로드](https://github.com/Seo-BJ/Hallucination/releases/latest)  
+## [Windows](https://github.com/Seo-BJ/Hallucination_GetHigh/releases/latest)   
+[다운로드](https://github.com/Seo-BJ/Hallucination_GetHigh/releases/latest)  
 1. zip 파일 다운로드 후 압축 해제
 1. Hallucination.exe 실행
 
@@ -167,4 +167,4 @@ Hallucination is licensed under the MIT License. See [LICENSE.txt](./LICENSE.txt
 
 # Miscellaneous
 ## Bug Report
-버그 제보는 [Issue](https://github.com/Seo-BJ/Hallucination/issues) 페이지를 이용 부탁드립니다:)
+버그 제보는 [Issue](https://github.com/Seo-BJ/Hallucination_GetHigh/issues) 페이지를 이용 부탁드립니다:)
